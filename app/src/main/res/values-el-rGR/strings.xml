@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Andrumbrella</string>
+    <string name="month1">Ιανουαρίου</string>
+    <string name="month2">Φεβρουαρίου</string>
+    <string name="month3">Μαρτίου</string>
+    <string name="month4">Απριλίου</string>
+    <string name="month5">Μαϊου</string>
+    <string name="month6">Ιουνίου</string>
+    <string name="month7">Ιουλίου</string>
+    <string name="month8">Αυγούστου</string>
+    <string name="month9">Σεπτεμβρίου</string>
+    <string name="month10">Οκτωβρίου</string>
+    <string name="month11">Νοεμβρίου</string>
+    <string name="month12">Δεκεμβρίου</string>
+    <string name="action_refresh">Ανανέωση</string>
+    <string name="search">έρευνα </string>
+    <string name="error_mes">Please Fill In All The Fields</string>
+    <string name="current_loc">Current Location</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Andrumbrella</string>
+    <string name="month1">Januar</string>
+    <string name="month2">Februar</string>
+    <string name="month3">März</string>
+    <string name="month4">April</string>
+    <string name="month5">Mai</string>
+    <string name="month6">Juni</string>
+    <string name="month7">Juli</string>
+    <string name="month8">August</string>
+    <string name="month9">September</string>
+    <string name="month10">Oktober</string>
+    <string name="month11">November</string>
+    <string name="month12">Dezember</string>
+    <string name="action_refresh">Neu laden</string>
+    <string name="search">Suchen </string>
+    <string name="error_mes">Bitte füllen Sie alle Felder aus</string>
+    <string name="current_loc">Position orten</string>
+
+</resources>

@@ -1,2 +1,2 @@
 # Andrumbrella
-WeatherApp
+A simple Android Application that tells the weather.
